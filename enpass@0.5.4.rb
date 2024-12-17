@@ -9,7 +9,7 @@ class EnpassAT054 < Formula
 
     def install
         system "make", "build"
-        bin.install "bin/enpass" => "free"
+        bin.install "bin/enpass" => "enpass"
     end
 
     def test
