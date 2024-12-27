@@ -1,7 +1,7 @@
 class FreeAT033 < Formula
     desc "Display the amount of free and used memory in the system."
     homepage "https://github.com/gdanko/free"
-    url "https://codeload.github.com/gdanko/free/tar.gz/refs/tags/v0.3.3"
+    url "https://github.com/gdanko/free/archive/refs/tags/v0.3.3.tar.gz"
     sha256 "142eed3753a0c71c5d39fe0bb00055ceac7ab899e2f917cde550bce6b1b6c986"
     version "0.3.3"
 

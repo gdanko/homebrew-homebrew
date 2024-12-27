@@ -1,7 +1,7 @@
 class EnpassAT054 < Formula
     desc "A command line interface to the Enpass password manager."
     homepage "https://github.com/gdanko/enpass"
-    url "https://codeload.github.com/gdanko/enpass/tar.gz/refs/tags/v0.5.4"
+    url "https://github.com/gdanko/enpass/archive/refs/tags/v0.5.4.tar.gz"
     sha256 "b4d83fbb095c94687364f05e4f05d976c1bf66afc7d955064a865d4783851956"
     version "0.5.4"
 
