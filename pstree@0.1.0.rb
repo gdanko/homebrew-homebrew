@@ -10,6 +10,7 @@ class PstreeAT010 < Formula
     def install
         system "make", "build"
         bin.install "bin/pstree" => "pstree"
+        man1.install "share/man/man1/pstree.1" => "pstree.1"
     end
 
     def test
