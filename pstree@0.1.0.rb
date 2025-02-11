@@ -9,7 +9,7 @@ class PstreeAT010 < Formula
 
     def install
         system "make", "build"
-        bin.install "bin/pstree" => "free"
+        bin.install "bin/pstree" => "pstree"
     end
 
     def test
