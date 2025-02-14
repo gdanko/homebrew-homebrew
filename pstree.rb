@@ -1,4 +1,4 @@
-class PstreeAT < Formula
+class Pstree < Formula
     desc "Display a tree of processes."
     homepage "https://github.com/gdanko/pstree"
     url "https://github.com/gdanko/pstree/archive/refs/tags/v0.4.1.tar.gz"
