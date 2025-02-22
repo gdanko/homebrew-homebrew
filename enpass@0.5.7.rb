@@ -1,4 +1,4 @@
-class Enpass < Formula
+class EnpassAT057 < Formula
     desc "A command line interface to the Enpass password manager."
     homepage "https://github.com/gdanko/enpass"
     url "https://github.com/gdanko/enpass/archive/refs/tags/v0.5.7.tar.gz"
