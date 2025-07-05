@@ -1,9 +1,9 @@
 class Pstree < Formula
     desc "Display a tree of processes."
     homepage "https://github.com/gdanko/pstree"
-    url "https://github.com/gdanko/pstree/archive/refs/tags/v0.8.0.tar.gz"
-    sha256 "83bcb044d7dcd0cd2fa87ef5da82d5a60be8247f521c1c5bf928c70028a69225"
-    version "0.8.0"
+    url "https://github.com/gdanko/pstree/archive/refs/tags/v0.7.0.tar.gz"
+    sha256 "4091e6c67ab5232ed9073ba4798a11139afdaa4316619f930bcbb902772b5cad"
+    version "0.7.0"
 
     depends_on "go" => "1.12"
 
